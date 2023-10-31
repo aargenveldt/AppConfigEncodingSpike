@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConfigEncodingSpike", "AppConfigEncodingSpike\AppConfigEncodingSpike.csproj", "{1035F704-F3C4-4AA5-A3F2-7C313E710434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricProtectedConfigurationProvider", "SymmetricProtectedConfigurationProvider\SymmetricProtectedConfigurationProvider.csproj", "{A51C45DE-7457-4389-BF48-6108F46EBD13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1035F704-F3C4-4AA5-A3F2-7C313E710434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1035F704-F3C4-4AA5-A3F2-7C313E710434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1035F704-F3C4-4AA5-A3F2-7C313E710434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1035F704-F3C4-4AA5-A3F2-7C313E710434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51C45DE-7457-4389-BF48-6108F46EBD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51C45DE-7457-4389-BF48-6108F46EBD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51C45DE-7457-4389-BF48-6108F46EBD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51C45DE-7457-4389-BF48-6108F46EBD13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B8F61D0-A3C7-4263-B9B0-1A611A71B557}
+	EndGlobalSection
+EndGlobal
